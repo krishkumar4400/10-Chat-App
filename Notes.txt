@@ -1,3 +1,7 @@
 configuration 
 
 files and folders
+
+home page - grids and all
+
+components
